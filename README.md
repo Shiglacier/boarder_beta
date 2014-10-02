@@ -1,4 +1,7 @@
 boarder_beta
 ============
 
-For practice
+これはUnityで制作予定のboarderゲームの練習用リポジトリです。
+
+
+
